@@ -1,0 +1,15 @@
+Task 3: Feature Selection using Chi-Square
+Top 5 features selected:
+- PhoneService_Vec[1]
+- PhoneService_Vec[2]
+- InternetService_Vec[0]
+- InternetService_Vec[1]
+- InternetService_Vec[2]
+
+Sample Output:
+          selectedFeatures  label
+ [0.0, 1.0, 0.0, 1.0, 2.0]    1.0
+ [1.0, 0.0, 0.0, 1.0, 7.0]    0.0
+(0.0, 0.0, 1.0, 0.0, 12.0)    0.0
+[0.0, 1.0, 0.0, 1.0, 33.0]    1.0
+ [0.0, 1.0, 0.0, 1.0, 7.0]    1.0
